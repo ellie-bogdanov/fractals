@@ -1,0 +1,5 @@
+/home/princess-ellie/Documents/cpp_projects/img_processing/build/CMakeFiles/fractals.dir
+/home/princess-ellie/Documents/cpp_projects/img_processing/build/CMakeFiles/package.dir
+/home/princess-ellie/Documents/cpp_projects/img_processing/build/CMakeFiles/package_source.dir
+/home/princess-ellie/Documents/cpp_projects/img_processing/build/CMakeFiles/edit_cache.dir
+/home/princess-ellie/Documents/cpp_projects/img_processing/build/CMakeFiles/rebuild_cache.dir
