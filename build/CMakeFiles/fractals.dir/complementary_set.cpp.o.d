@@ -1,5 +1,5 @@
-CMakeFiles/fractals.dir/main.cpp.o: \
- /home/princess-ellie/Documents/cpp_projects/img_processing/main.cpp \
+CMakeFiles/fractals.dir/complementary_set.cpp.o: \
+ /home/princess-ellie/Documents/cpp_projects/img_processing/complementary_set.cpp \
  /usr/include/stdc-predef.h \
  /home/princess-ellie/Documents/cpp_projects/img_processing/complementary_set.hpp \
  /home/princess-ellie/Documents/cpp_projects/img_processing/mandelbrot_set.hpp \

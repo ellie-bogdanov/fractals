@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/princess-ellie/Documents/cpp_projects/img_processing/complementary_set.cpp" "CMakeFiles/fractals.dir/complementary_set.cpp.o" "gcc" "CMakeFiles/fractals.dir/complementary_set.cpp.o.d"
   "/home/princess-ellie/Documents/cpp_projects/img_processing/fractal_tree.cpp" "CMakeFiles/fractals.dir/fractal_tree.cpp.o" "gcc" "CMakeFiles/fractals.dir/fractal_tree.cpp.o.d"
   "/home/princess-ellie/Documents/cpp_projects/img_processing/main.cpp" "CMakeFiles/fractals.dir/main.cpp.o" "gcc" "CMakeFiles/fractals.dir/main.cpp.o.d"
   "/home/princess-ellie/Documents/cpp_projects/img_processing/mandelbrot_set.cpp" "CMakeFiles/fractals.dir/mandelbrot_set.cpp.o" "gcc" "CMakeFiles/fractals.dir/mandelbrot_set.cpp.o.d"

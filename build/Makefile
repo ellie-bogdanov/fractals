@@ -149,6 +149,30 @@ fractals/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fractals.dir/build.make CMakeFiles/fractals.dir/build
 .PHONY : fractals/fast
 
+complementary_set.o: complementary_set.cpp.o
+.PHONY : complementary_set.o
+
+# target to build an object file
+complementary_set.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fractals.dir/build.make CMakeFiles/fractals.dir/complementary_set.cpp.o
+.PHONY : complementary_set.cpp.o
+
+complementary_set.i: complementary_set.cpp.i
+.PHONY : complementary_set.i
+
+# target to preprocess a source file
+complementary_set.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fractals.dir/build.make CMakeFiles/fractals.dir/complementary_set.cpp.i
+.PHONY : complementary_set.cpp.i
+
+complementary_set.s: complementary_set.cpp.s
+.PHONY : complementary_set.s
+
+# target to generate assembly for a file
+complementary_set.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/fractals.dir/build.make CMakeFiles/fractals.dir/complementary_set.cpp.s
+.PHONY : complementary_set.cpp.s
+
 fractal_tree.o: fractal_tree.cpp.o
 .PHONY : fractal_tree.o
 
@@ -232,6 +256,9 @@ help:
 	@echo "... package_source"
 	@echo "... rebuild_cache"
 	@echo "... fractals"
+	@echo "... complementary_set.o"
+	@echo "... complementary_set.i"
+	@echo "... complementary_set.s"
 	@echo "... fractal_tree.o"
 	@echo "... fractal_tree.i"
 	@echo "... fractal_tree.s"
